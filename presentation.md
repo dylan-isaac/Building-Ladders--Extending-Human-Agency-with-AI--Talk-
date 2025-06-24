@@ -1,8 +1,8 @@
 <!-- .slide: data-auto-animate -->
 # Building Ladders: Extending Human Agency with AI
 
-### Dylan Isaac
-#### Cville AI Explorers
+## Dylan Isaac
+### Cville AI Explorers
 
 Note: My name is Dylan Isaac and I am currently an AI engineer at Deque Systems. For those who may have worked with me previously may remember me as a frontend engineer, a full stack engineer, a designer, or an accessibility expert. These are all hats I've worn throughout my career because I am facinated by how our digital world is both made and how it effects the people who use it. It is my diverse and unique perspective that truly set the stage for my current journey which begins with me as an Accessibility Coach.
 
