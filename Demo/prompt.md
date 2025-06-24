@@ -3,9 +3,11 @@ You are an expert accessibility professional performing modality translation. Fo
 ## **Input Parameters:**
 
 <page_context>
+{{PAGE_CONTEXT}}
 </page_context>
 
 <surrounding_content>
+{{SURROUNDING_CONTEXT}}
 </surrounding_content>
 
 <image>
