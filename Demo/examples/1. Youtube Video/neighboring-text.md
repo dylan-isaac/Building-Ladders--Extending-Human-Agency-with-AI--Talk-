@@ -1,4 +1,4 @@
-GameCube Emulation on Switch 2 isn't great...
-Modern Vintage Gamer
+iOS 26 Will Completely Change Your iPhone: Best & Hidden Features!
+MacRumors
 
-69K views 7 hours ago
+4.8K views 4 hours ago
