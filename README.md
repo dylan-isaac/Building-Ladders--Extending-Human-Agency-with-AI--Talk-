@@ -2,6 +2,9 @@
 
 A presentation demonstrating how AI can be used to create "ladders" that help people engage with complex domains, specifically showcasing automatic text alternative generation for web accessibility.
 
+[Watch the video here](https://drive.google.com/file/d/1m1q8f3YFf-hT1-FY0O5cZq6Eolo7n_bV/view?usp=sharing)
+
+
 ## 🎯 Overview
 
 This talk explores how AI can bridge the gap between human understanding and complex technical domains, using accessibility as a concrete example. Rather than forcing people to adapt to computers, we can build systems that adapt to people's existing knowledge and workflows.
@@ -41,7 +44,7 @@ The presentation includes live demonstrations of an AI system that generates app
 
 ### Alternative Viewing
 
-The `presentation.md` file uses reveal.js syntax and can also be viewed in any reveal.js-compatible renderer outside of Obsidian.
+The `presentation.md` file uses reveal.js syntax and can also be viewed in any reveal.js-compatible renderer outside of Obsidian. Additionally, the presentation.md file is quite readable from the GitHub preview as well.
 
 ## 📋 Presentation Structure
 
