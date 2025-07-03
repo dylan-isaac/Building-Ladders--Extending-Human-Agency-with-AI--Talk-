@@ -2,7 +2,7 @@
 
 A presentation demonstrating how AI can be used to create "ladders" that help people engage with complex domains, specifically showcasing automatic text alternative generation for web accessibility.
 
-[Watch the video here](https://drive.google.com/file/d/1m1q8f3YFf-hT1-FY0O5cZq6Eolo7n_bV/view?usp=sharing), view the [presentation slides](https://github.com/dylan-isaac/Building-Ladders--Extending-Human-Agency-with-AI--Talk-/blob/main/presentation.md), or see the [demoed Alt Text Prompt]([https://github.com/dylan-isaac/Building-Ladders--Extending-Human-Agency-with-AI--Talk-/blob/main/presentation.md](https://github.com/dylan-isaac/Building-Ladders--Extending-Human-Agency-with-AI--Talk-/blob/main/Demo/prompt.md))
+[Watch the video here](https://drive.google.com/file/d/1m1q8f3YFf-hT1-FY0O5cZq6Eolo7n_bV/view?usp=sharing), view the [presentation slides](https://github.com/dylan-isaac/Building-Ladders--Extending-Human-Agency-with-AI--Talk-/blob/main/presentation.md), or see the [demoed Alt Text Prompt](https://github.com/dylan-isaac/Building-Ladders--Extending-Human-Agency-with-AI--Talk-/blob/main/Demo/prompt.md)
 
 ## 🎯 Overview
 
